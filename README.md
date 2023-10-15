@@ -70,7 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
 </div>
 
-###
+###_
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=d-david8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
