@@ -47,62 +47,51 @@
              alt="java logo"/>
         <img width="12"/>
     </a>
-
     <a href="https://spring.io/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" target="_blank" height="40" alt="spring logo"/>
         <img width="12"/>
     </a>
-
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank" height="40" alt="javascript logo"/>
         <img width="12"/>
     </a>
-
     <a href="">
         <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" target="_blank" height="40"
              alt="microsoftsqlserver logo"/>
         <img width="12"/>
     </a>
-
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"
              alt="postgresql logo"/>
         <img width="12"/>
     </a>
-
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"
              alt="mysql logo"/>
         <img width="12"/>
     </a>
-
     <a>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
         <img width="12"/>
     </a>
-
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"
              alt="cplusplus logo"/>
         <img width="12"/>
     </a>
-
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
         <img width="12"/>
     </a>
-
     <a href="">
         <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"/>
         <img width="12"/>
     </a>
-
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"
              alt="jira logo"/>
         <img width="12"/>
     </a>
-
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40"
              alt="confluence logo"/>
