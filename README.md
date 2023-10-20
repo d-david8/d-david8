@@ -45,7 +45,6 @@
     <a href="https://www.java.com/en">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank" height="40"
              alt="java logo"/>
-        <img width="12"/>
     </a>
     <a href="https://spring.io/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" target="_blank" height="40" alt="spring logo"/>
