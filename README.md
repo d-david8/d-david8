@@ -52,12 +52,3 @@ I'm <strong>David</strong>, a Chatbot Developer based in <strong>Cluj-Napoca, Ro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40"/>
 </div>
-
----
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d-david8&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d-david8&layout=compact&langs_count=5&theme=github_dark&hide_border=true" height="140"/>
-</div>
